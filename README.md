@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy María Nisa Merchán 
 
-<!--
-**nisa2217/nisa2217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 **Administradora de Sistemas | Cloud & Cybersecurity Enthusiast**  
+🔐 **Ciberseguridad** | ☁️ **Cloud Computing** | ⚙️ **DevOps**  
+📊 **Bases de datos** | 🖥️ **Infraestructura IT** | 🚀 **Automatización**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí:
+Soy Administradora de Sistemas y Redes con pasión por la ciberseguridad, la computación en la nube y la automatización de infraestructuras. Me encanta aprender nuevas tecnologías y enfrentar desafíos en IT. 
+
+📍 Ubicación: *Málaga, España*  
+📧 Contacto: [marianisa01@gmail.com](mailto:marianisa01@gmail.com)  
+🔗 LinkedIn: [Tu perfil](https://linkedin.com/in/tuusuario)  
+
+---
+
+### 🛠️ **Tecnologías y herramientas:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-EE0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+---
+
+### 📌 **Proyectos Destacados:**
+- 🔹 **[stackP28](https://github.com/tuusuario/stackP28):** Automatización con GitHub Actions y DockerHub para Nginx, MariaDB y Wazuh.  
+- 🔹 **[Monitorización con Zabbix](https://github.com/tuusuario/proyecto-zabbix):** Implementación de Zabbix para Cassandra y Solr.  
+
+---
+
+### 📈 **Estadísticas de GitHub:**
+![María's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+
+🌟 _¡Siempre aprendiendo y explorando nuevas tecnologías!_ 🚀
+
