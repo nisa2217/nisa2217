@@ -25,13 +25,13 @@ Soy Administradora de Sistemas y Redes con pasión por la ciberseguridad, la com
 ---
 
 ### 📌 **Proyectos Destacados:**
-- 🔹 **[stackP28](https://github.com/tuusuario/stackP28):** Automatización con GitHub Actions y DockerHub para Nginx, MariaDB y Wazuh.  
-- 🔹 **[Monitorización con Zabbix](https://github.com/tuusuario/proyecto-zabbix):** Implementación de Zabbix para Cassandra y Solr.  
+- 🔹 **[Nginx-MariaDB-Wazuh]((https://github.com/nisa2217/Stack-Nginx-MariaDB-Wazuh)):** Automatización con GitHub Actions y DockerHub para Nginx, MariaDB y Wazuh.  
+- 🔹 **[Clúster MySQL]((https://github.com/nisa2217/Cluster-MySQL)):** Creación de un clúster MySQL.  
 
 ---
 
 ### 📈 **Estadísticas de GitHub:**
-![María's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![María's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisa2217&show_icons=true&theme=radical)
 
 🌟 _¡Siempre aprendiendo y explorando nuevas tecnologías!_ 🚀
 
