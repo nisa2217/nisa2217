@@ -11,7 +11,7 @@ Soy Administradora de Sistemas y Redes con pasión por la ciberseguridad, la com
 
 📍 Ubicación: *Málaga, España*  
 📧 Contacto: [marianisa01@gmail.com](mailto:marianisa01@gmail.com)  
-🔗 LinkedIn: [Tu perfil](https://linkedin.com/in/tuusuario)  
+🔗 LinkedIn: [Tu perfil](www.linkedin.com/in/maría-nisa-merchán-44b55925a)  
 
 ---
 
