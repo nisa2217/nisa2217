@@ -8,8 +8,7 @@
 
 ### 🚀 Sobre mí:
 Soy Administradora de Sistemas y Redes con pasión por la ciberseguridad, la computación en la nube y la automatización de infraestructuras. Me encanta aprender nuevas tecnologías y enfrentar desafíos en IT. 
-
-📍 Ubicación: *Málaga, España*  
+ 
 📧 Contacto: [marianisa01@gmail.com](mailto:marianisa01@gmail.com)  
 🔗 [LinkedIn - María Nisa Merchán](https://es.linkedin.com/in/mar%C3%ADa-nisa-merch%C3%A1n-44b55925a)  
 
