@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy María Nisa Merchán 
+# 👋 ¡Hola! Soy María Nisa 
 
 👩‍💻 **Administradora de Sistemas | Cloud & Cybersecurity Enthusiast**  
 🔐 **Ciberseguridad** | ☁️ **Cloud Computing** | ⚙️ **DevOps**  
@@ -10,7 +10,7 @@
 Soy Administradora de Sistemas y Redes con pasión por la ciberseguridad, la computación en la nube y la automatización de infraestructuras. Me encanta aprender nuevas tecnologías y enfrentar desafíos en IT. 
  
 📧 Contacto: [marianisa01@gmail.com](mailto:marianisa01@gmail.com)  
-🔗 [LinkedIn - María Nisa Merchán](https://es.linkedin.com/in/mar%C3%ADa-nisa-merch%C3%A1n-44b55925a)  
+🔗 [LinkedIn - María Nisa](https://es.linkedin.com/in/mar%C3%ADa-nisa-merch%C3%A1n-44b55925a)  
 
 ---
 
